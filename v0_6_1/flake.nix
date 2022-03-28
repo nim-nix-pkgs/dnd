@@ -11,7 +11,6 @@
   inputs.src-dnd-v0_6_1.ref   = "refs/tags/v0.6.1";
   inputs.src-dnd-v0_6_1.owner = "adokitkat";
   inputs.src-dnd-v0_6_1.repo  = "dnd";
-  inputs.src-dnd-v0_6_1.dir   = "";
   inputs.src-dnd-v0_6_1.type  = "github";
   
   inputs."gintro".owner = "nim-nix-pkgs";

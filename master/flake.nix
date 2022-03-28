@@ -11,7 +11,6 @@
   inputs.src-dnd-master.ref   = "refs/heads/master";
   inputs.src-dnd-master.owner = "adokitkat";
   inputs.src-dnd-master.repo  = "dnd";
-  inputs.src-dnd-master.dir   = "";
   inputs.src-dnd-master.type  = "github";
   
   inputs."gintro".owner = "nim-nix-pkgs";
