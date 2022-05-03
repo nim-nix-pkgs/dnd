@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "v0_9_8",
-        "lastModified": 1650754271,
-        "narHash": "sha256-pOuVc42jJ3PxkUflqvET02BnkbDhpqsbhe1Q8nBB+98=",
+        "lastModified": 1651555465,
+        "narHash": "sha256-P3ms0AbLaIKcfudV/a3z3v10Es4ZtXhGoHYYgOrQdyM=",
         "owner": "nim-nix-pkgs",
         "repo": "gintro",
-        "rev": "5a2d237107c13741826ddcf16f6b33e31bb766e3",
+        "rev": "2c4fdbb3862229db616f0da1c0e63546a7940fc3",
         "type": "github"
       },
       "original": {
@@ -50,8 +50,8 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-sK1Ow//80EKE3bAF5d+2gB8vPXw6m5TBk3wSLHvdVe0=",
-        "path": "/nix/store/0yqgkbpmsk7ck4s34wk505sfdd9vils4-source",
+        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
+        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
         "type": "path"
       },
       "original": {
