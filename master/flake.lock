@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "v0_9_9",
-        "lastModified": 1658017942,
-        "narHash": "sha256-kQJ5y/cmunKF1ktJ1O3A3GhLq+i/t4/vuAcRsNP4AnA=",
+        "lastModified": 1658031888,
+        "narHash": "sha256-97YTlUL3ms7cEYeZ4eS2+p+kLDYgebs2op9HK4/VSIg=",
         "owner": "nim-nix-pkgs",
         "repo": "gintro",
-        "rev": "db81958dea7a598f74cb543959ab219ab65d7b6e",
+        "rev": "68a8f13b84c26d5b2d930eb464e8e03421d24fc2",
         "type": "github"
       },
       "original": {
