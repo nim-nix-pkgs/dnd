@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "v0_9_9",
-        "lastModified": 1668754552,
-        "narHash": "sha256-taStv0OPk4dsZ66rCzcEfRKM4z3qA2fb+1UXxgeAdSA=",
+        "lastModified": 1668775839,
+        "narHash": "sha256-Auo8pFsVvlhFnVKDGMHxrAlyczvX/vPij9hChEil14M=",
         "owner": "nim-nix-pkgs",
         "repo": "gintro",
-        "rev": "993ef6447f8de7088636b89bca1c38174fca3c4c",
+        "rev": "e6519a9583b1ad612aa19a89725a26470af11815",
         "type": "github"
       },
       "original": {
